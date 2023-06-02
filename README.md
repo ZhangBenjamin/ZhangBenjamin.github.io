@@ -3,4 +3,4 @@
 [Assignment 0](https://zhangbenjamin.github.io/Assignment 0/index.html)
 
 <h3>Homework 1</h3>
-[Assignment 1](https://zhangbenjamin.github.io/Assignment%201/index.html)
+[Assignment 1](https://zhangbenjamin.github.io/Assignment 1/index.html)
