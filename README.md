@@ -7,4 +7,4 @@
 
 <h3>Homework 2</h3>
 
-</hr>
+<hr>
