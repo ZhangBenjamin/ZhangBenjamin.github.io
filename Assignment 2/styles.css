@@ -139,21 +139,16 @@ h2 {
 
 /* QUESTION 4 */
 .mexico-green {
-  width: 33.3%;
-  height: 100%;
   background-color: #006341;
 }
 
 .mexico-img {
   /* TODO */
-  max-width: 50%;
-  max-height: 50%;
+  max-width: 33.3%;
   align-self: center;
 }
 
 .mexico-red {
-  width: 33.3%;
-  height: 100%;
   background-color: #ce1126;
 }
 
