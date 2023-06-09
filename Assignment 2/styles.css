@@ -14,7 +14,7 @@
 h2 {
   font-size: medium;
   font-weight: 200;
-  background: #555;
+  background: lightseagreen;
   display: block;
 }
 /* END SETUP */
@@ -162,6 +162,7 @@ h2 {
   margin-bottom: 5rem;
   display: flex;
   justify-content: center;
+  background-color: lightgreen;
 }
 
 /* For margin practice */
