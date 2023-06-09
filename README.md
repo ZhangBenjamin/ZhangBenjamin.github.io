@@ -7,6 +7,6 @@
 [Assignment 1](https://zhangbenjamin.github.io/Assignment 1/index.html)
 
 <h3>Homework 2</h3>
-[Assignment 2](https://zhangbenjamin.github.io/Assignment 2/index.html)
+[Assignment 2](https://fullstack-decal-sp23.github.io/hw2-ZhangBenjamin/)
 
 <hr>
