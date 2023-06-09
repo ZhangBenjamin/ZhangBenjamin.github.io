@@ -32,7 +32,7 @@ h2 {
 }
 
 .threevert {
-  height: 33.3333333%;
+  height: 33.3%;
 }
 
 .threehoriz {
@@ -97,16 +97,19 @@ h2 {
 .thailand-red {
   /* TODO */
   background-color: #B5002D;
+  height: 16.65%;
 }
 
 .thailand-white {
   /* TODO */
   background-color: #fff;
+  height: 16.65%;
 }
 
 .thailand-blue {
   /* TODO */
   background-color: #2E2A4C;
+  height: 33.3%;
 }
 
 /* END QUESTION 2 */
@@ -135,6 +138,8 @@ h2 {
 .mexico-img {
   /* TODO */
   max-width: 50%;
+  max-height: 50%;
+  align-self: center;
 }
 
 .mexico-red {
