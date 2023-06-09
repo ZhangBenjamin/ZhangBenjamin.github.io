@@ -12,9 +12,10 @@
 }
 
 h2 {
-  color: yellow;
   font-size: medium;
   font-weight: 200;
+  background: #555;
+  display: block;
 }
 /* END SETUP */
 
@@ -179,5 +180,6 @@ h2 {
   background-color: lightblue;
   background-clip: content-box, padding-box;
   /* TODO */
-  width: 50%;
+  width: 80%;
+  height: 80%;
 }
